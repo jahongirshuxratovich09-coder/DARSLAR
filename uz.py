@@ -27,4 +27,5 @@ bozorliklar =mevalar.pop(0)
 print("MEN " +bozorliklar + "sooib oldim")
 print("Olinmagn bozorliklar:" , mevalar)
 
+print("SALOM GITHUB")
 
