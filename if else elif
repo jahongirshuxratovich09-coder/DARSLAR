@@ -1,0 +1,26 @@
+age = int(input("Enter your age:"))
+
+if age >=17:
+    print("Voyaga yetkan")
+elif age>=12:
+    print("voyaga yetmagan")
+elif age>=10:
+    print("kechkina")
+else:
+    print("bola")
+
+#response =input("would you like food? (Y/N): ")
+
+#if response == "Y":
+#    print("Have same food")
+#else:
+#    print("No food for you!")
+
+#name = input("Enter your name: ")
+#if name == "":
+#    print("You did not type your name!")
+#else:
+#    print(f"Hello {name}")
+
+
+

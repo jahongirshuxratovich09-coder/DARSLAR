@@ -1,0 +1,111 @@
+
+#mevalar = ['Olma', 'nok', 'baban', 'Cola',]
+#print["Birinchi meva: ", mevalar[0])
+#narxlar = [1990, 2000, 2001,3001,]
+#print(narxlar[3] + narxlar[0])
+
+#appened
+#mavalar = ['olma', 'anjir', 'banan', "nok"]
+#mavalar.append("tarvuz")
+#print(mavalar)
+
+#append bbu ham qusha oladi yasab beradi
+#cars = []
+#cars.append ('Cobolt')
+#cars.append ('nexa')
+#cars.append ('nexa3')
+#print(cars)
+
+#insert -- bu xoxlagan joyga qusha oladi 0 orqale
+#cars = ['malebu', 'cobolt', "cobolt"]
+#cars.insert(1, 'nexa3')
+#print(cars)
+
+#DEL-- uchirib tahsaydi
+#mevalar =['olma', 'nok', 'anor', "cola"]
+#del mevalar[2]
+#print(mevalar)
+
+#REMOVE -- uchir tashaydi
+#mevalar =['olma', 'nok', 'anor', "cola"]
+#mevalar.remove('anor')
+#print(mevalar)
+    
+#POP , balki uni ro'yxatdan sug'urib olish va undan foydalanish talab qilinishi mumki  
+ #bozorlik = ['olma', 'nok', 'piyoz', "cola"]    
+#mahsulotlar =bozorlik.pop(0)
+#print("Men " +mahsulotlar + " sotib oldim")
+#print("olinmagan mahsulotlar: " , bozorlik)
+
+#sort--tartiblab beradi alifbo qilib
+
+#cars = ['nexa','damas', 'bmw', 'audoo', "mers"]
+#cars.sort()
+ #pint(cars)
+#['audoo', 'bmw', 'damas', 'mers', 'nexa']
+
+#.sort() revers=True-----orqadan tugirlab keladi
+ #cars = ['bmw', 'mers', 'damas',"oudo"]
+ #cars.sort (reverse=True)
+ #print(cars)
+
+#sorted ()
+# mehmonlar = ('odil', 'anvar', 'kumush', "shox")
+ #print("sorted()  qayta ruyhat:", sorted(mehmonlar))   
+ #print("Asl ruyhat o'zgarmas qoldi:",mehmonlar)
+
+
+#ages = [12, 41, 21,41]
+#ages.sort()
+#print(ages)
+#print(sorted(ages,reverse=True))
+
+#revers
+#fruits =['olma', 'banan', 'apple',"cola"]
+#fruits.reverse()
+#print(fruits)
+
+#len. --ruyhatni uzunligi bilish uchun
+#fruts = ['lma', 'banan','nok','anor',"apelsen"]
+#print("elementlar soni:",len(fruts))
+
+#renge - sonlar ketma ketligini yaratish uchun
+#sonlar = list(range[0,10])
+#print(sonlar)
+
+#juft_sonlar = list(range(0,20,3))
+#toq_sonlar = list(range(1,20,2))
+#print("Juft sonlar:", juft_sonlar)
+#print("Toq sonlar:", toq_sonlar)
+
+#narxlar = ['3000','4010', '2000','5001','2000']
+
+#narxlar =[int(narx) for narx in narxlar]
+
+#arzon =min(narxlar)
+#qimmat =max(narxlar)
+#jami =sum(narxlar)
+
+#print("Eng arzon narx:",arzon)
+#print ("Eng qimmat:",qimmat)
+#print("Jami:",jami)
+
+#cars = ['bmw', 'merx', 'cobolt', 'merc', 'damas']
+#print(cars[:3])
+#print(cars[:2])    
+
+#sonlar = [1,2,3,4,5,6]
+#sonlar2 = sonlar
+#sonlar2.append(7)
+#sonlar2.append(8)
+#print("Bu sonlar ruyxati:", sonlar)
+#print("Bu sonlar2 ruyxat:", sonlar2)
+
+
+#toys = ('bus', 'car', 'berar','dino', 'snmke')
+#print(toys[0])
+#print(toys[-1])
+#print(toys[2:3])
+
+
+yosh = int(input)
