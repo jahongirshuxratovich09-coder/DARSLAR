@@ -10,10 +10,8 @@
 #print("5 ta yaqin dustiz immi kim?")
 #for n in range(5):
  #   dustlar.append(input(f"{n+1}-dustingizni ismini kiritin: "))
- #   print(dustlar)
-    
-
-    
+ #   print(dust
+print("salom John")
 sonlar = list(range(1,10))
 for son in sonlar:
     print(f"{son} ning kvadrati {son**2} ga tng")
