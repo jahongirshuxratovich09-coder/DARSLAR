@@ -15,7 +15,7 @@
 #else:
 #    print("NO food for you")
 
-#
+print("SALOM LOLA")
 # 
 # for_sale =True
 # if for_sale:
