@@ -8,6 +8,7 @@ print (name)
 print (f"Hello my name is {name}")
 print(f"Do you want {food}")
 print(f"Your email is:{email}")
+print("Men shodmonchaman")
 #intger
 age = 17
 quantity = 6
