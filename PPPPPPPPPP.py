@@ -1,1 +1,1 @@
-age = (25,)
+print("Hello world!")
